@@ -1,0 +1,36 @@
+
+/* selector universal */
+*{
+font-family: "Outfit", sans-serif;
+}
+header{
+    background-color:#618264 ;
+    
+}
+header span{
+    color: #E7F0DC;
+}
+.nav-item a{
+    color: azure;
+}
+.nav-item a:visited{
+    color: rgb(245, 233, 199);
+}
+ .nav-item a:hover{
+    color: aqua;
+}
+#nav-bttn{
+    background-color:#79AC78 ;
+}
+
+.icon-square .bi{
+    color: rgb(70, 138, 90);    
+}
+.bi{
+    font-size:larger;
+}
+.img-proy1{
+    background-image: url('/img/Clon_Pinterest.png');
+    background-repeat: no-repeat;
+    background-size: contain;    
+}
