@@ -5,7 +5,6 @@ font-family: "Outfit", sans-serif;
 }
 header{
     background-color:#618264 ;
-    
 }
 header span{
     color: #E7F0DC;
@@ -23,6 +22,15 @@ header span{
     background-color:#79AC78 ;
 }
 
+/* Cuadro Pasiones */
+#pasiones{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 25px;
+}
+
+
+
+
 .icon-square .bi{
     color: rgb(70, 138, 90);    
 }
@@ -33,4 +41,28 @@ header span{
     background-image: url('/img/Clon_Pinterest.png');
     background-repeat: no-repeat;
     background-size: contain;    
+}
+
+#icon{
+    color: rgb(24, 99, 17);
+}
+#buttonVerde{
+    background-color: rgb(29, 80, 16);
+    border: none;
+}
+
+/* Footer */
+footer{
+    background-color: #618264;
+}
+footer .icon-footer .bi{
+    color: rgb(235, 222, 205);
+}
+footer .text-center{
+    color: rgb(235, 222, 205);
+}
+
+/* app script */
+#app{
+    color: rgb(17, 82, 22);
 }
