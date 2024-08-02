@@ -20,4 +20,4 @@ Da click, para poder observarlo [Portafolio] (https://ingridmtz02.github.io/).
 * Contacto
 
 ### Captura del proyecto
-![Captura del proyecto](/img/Portafolio.PNG)
+![Captura del proyecto](/img/Portafolio.png)
