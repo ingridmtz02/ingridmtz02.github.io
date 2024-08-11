@@ -88,9 +88,14 @@ small{
     background-color: rgb(29, 80, 16);
     border: none;
 }
-/* .carousel-control-next{
-    background-color: #34ec536b;
-} */
+.carousel-control-prev-icon{
+    background-color: #618264;
+    border-radius: 11px;
+}
+.carousel-control-next-icon{
+    background-color: #618264;
+    border-radius: 11px;
+}
 /* Footer */
 footer{
     background-color: #618264;
