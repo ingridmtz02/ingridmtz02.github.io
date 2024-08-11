@@ -4,7 +4,6 @@ var app = document.getElementById('app');
 var typewriter = new Typewriter(app, {
     loop: true
 });
-
 typewriter.typeString("Estudiante de Ingeniería Biomédica")
 //pausa
     .pauseFor(2000) 

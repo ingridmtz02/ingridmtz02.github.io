@@ -3,8 +3,9 @@
 *{
 font-family: "Outfit", sans-serif;
 }
+
 header{
-    background-color:#618264 ;
+    background-color:#568f5bc9 ;
 }
 header span{
     color: #E7F0DC;
@@ -28,21 +29,58 @@ header span{
     border-radius: 25px;
 }
 
-
-
-
 .icon-square .bi{
     color: rgb(70, 138, 90);    
 }
 .bi{
-    font-size:larger;
-}
+    font-size:larger;}
+/* CARDS */
+/* img project cards */
 .img-proy1{
     background-image: url('/img/Clon_Pinterest.png');
     background-repeat: no-repeat;
-    background-size: contain;    
+    background-size: 136%; 
+    opacity: .9;
+}
+.img-proy2{
+    background-image: url('/img/CV_Preview.jpg');
+    background-repeat: no-repeat;
+    background-size: 136%; 
+    opacity: .9;   
+}
+.img-proy3{
+    background-image: url('/img/ToDoPreview.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%; 
+    opacity: .9;
+}
+.img-proy4{
+    background-image: url('/img/ToDoPreview.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%; 
+    opacity: .9;}
+    /* text cards */
+#card-title{
+    background-color: rgba(71, 70, 70, 0.548);
+    border-radius: 20px;
+    text-align: center;
+    padding: 5;
+}
+#card-title a{
+    color: beige;
+    text-decoration-line: none;
+}
+#card-title a:hover{
+    color: #a8c9e7;
+}
+small{
+    color: rgba(255, 255, 255, 0.904);
+    background-color: rgba(71, 70, 70, 0.699);
+    border-radius: 5px;
+    padding: 5px;
 }
 
+/* icon contactame */
 #icon{
     color: rgb(24, 99, 17);
 }
@@ -50,7 +88,9 @@ header span{
     background-color: rgb(29, 80, 16);
     border: none;
 }
-
+/* .carousel-control-next{
+    background-color: #34ec536b;
+} */
 /* Footer */
 footer{
     background-color: #618264;
