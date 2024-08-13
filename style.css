@@ -59,7 +59,8 @@ header span{
     background-repeat: no-repeat;
     background-size: 100%; 
     opacity: .9;}
-    /* text cards */
+
+/* Tarjetas Proyectos 1 */
 #card-title{
     background-color: rgba(71, 70, 70, 0.548);
     border-radius: 20px;
@@ -79,15 +80,16 @@ small{
     border-radius: 5px;
     padding: 5px;
 }
+/* Tarjetas Proyectos 2 */
+.card-body a{
+    text-decoration-line: none;
+    color: black;
+}
+.card-body a:hover{
+    color: #a8c9e7;
+}
 
-/* icon contactame */
-#icon{
-    color: rgb(24, 99, 17);
-}
-#buttonVerde{
-    background-color: rgb(29, 80, 16);
-    border: none;
-}
+/* Experiencia Estudiantil */
 .carousel-control-prev-icon{
     background-color: #618264;
     border-radius: 11px;
@@ -96,6 +98,16 @@ small{
     background-color: #618264;
     border-radius: 11px;
 }
+
+/* Contctame Icon*/
+#icon{
+    color: rgb(24, 99, 17);
+}
+#buttonVerde{
+    background-color: rgb(29, 80, 16);
+    border: none;
+}
+
 /* Footer */
 footer{
     background-color: #618264;
